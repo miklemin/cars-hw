@@ -1,5 +1,6 @@
 # lending Premium cars
-### 🖥 Web application using оn Angular 
+### 🖥 
+Created web applications using the framework Angular. 
 
 https://miklemin.github.io/cars-hw/
 
